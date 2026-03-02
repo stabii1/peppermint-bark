@@ -26,6 +26,12 @@ img {
 /*change subtitle font size to larger than the default. */
 .subtitle {
   font-size: 1.3em;
+  text-align: center;
+}
+
+.author {
+  text-align: center;
+  margin-bottom: 1rem;
 }
 /*Change the times to a bold font-weight*/
 .time {
@@ -35,6 +41,10 @@ img {
 /*select the li inside of ingredients to list-style: square*/
 ul li {
   list-style: square;
+}
+
+li {
+  max-width: 800px;
 }
 /*select the times inside of the lists and change to a different color*/
 
@@ -58,4 +68,5 @@ a:active {
 /*select h1 and h2 elements and change their case to uppercase*/
 h1, h2 {
   text-transform: uppercase;
+  text-align: center;
 }
