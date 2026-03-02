@@ -1,0 +1,17 @@
+/* Style the body to set default styles for the page.*/
+* {
+  padding: 0;
+  margin: 0;
+}
+
+ul, ol {
+  margin-left: 25px;
+}
+/*select html and set the background color, color, font family with fallback, and font size. */
+/*change img height to 300px and width to auto*/
+/*change subtitle font size to larger than the default. */
+/*Change the times to a bold font-weight*/
+/*select the li inside of ingredients to list-style: square*/
+/*select the times inside of the lists and change to a different color*/
+/*select the link and change it's color; */
+/*select h1 and h2 elements and change their case to uppercase*/
