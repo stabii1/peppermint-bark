@@ -9,10 +9,10 @@ ul, ol {
   margin-left: 25px;
 }
 /*select html and set the background color, color, font family with fallback, and font size. */
-html {
+body {
   background-color: aliceblue;
   color: brown;
-  font-family: Tahoma, sans-serif;
+  font-family: verdana, sans-serif;
   font-size: 16px;
   margin: 20px;
 }
